@@ -1,5 +1,5 @@
-# Tubetool
-A linux command line python script for downloading YouTube videos as .mp4 files.
+# Ytget
+A linux command line python script for downloading YouTube videos and converting them to .flac files for music.
 
 Dependencies:
 pytube module
