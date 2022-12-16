@@ -1,5 +1,5 @@
 # YtGet
-A linux command line python script for downloading YouTube videos and converting them to .flac files for music.
+A Linux command line python script for downloading YouTube videos and converting them to FLAC files for music.
 
 Dependencies:
 pytube module
