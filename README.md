@@ -1,7 +1,7 @@
-# YtGet
-A Linux command line script made in Python 3.10 for downloading YouTube videos and converting them to FLAC files for music playlists.
+# Grabby-NT
+A Windows Powershell/CMD Python3.x script for downloading youtube videos in an audio or audio/visual format
 
 Dependencies:
-pytube module
-os module
-sys module
+Pytube module
+OS module
+SYS module
